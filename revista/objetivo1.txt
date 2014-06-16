@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Inicio</title>
+</head>
+<body bgcolor="#000000">
+</body>
+<br>
+<br>
+<table width="70%" border="3" align="center" cellspacing="0" bordercolor="#800000" bgcolor="#FFFFCC">
+  <tr>
+    <td><p><H3 align="center">Objetivo 1: ERRADICAR LA POBRESA EXTREMA Y EL HAMBRE</h3></font></p>
+<p><H4 align="center">Reducir a la mitad el porcentaje de personas con ingresos inferiores a un dólar
+Los nuevos cálculos del Banco Mundial sobre la pobreza han confirmado lo que se determinó el año pasado: que la primera meta del Objetivo 1 se ha alcanzado cinco años antes del plazo límite, fijado en 2015. 
+En las regiones en desarrollo, el porcentaje de personas que viven con menos de 1,25 dólares al día cayó del 47% en 1990 al 22% en 2010. 
+Aproximadamente 700 millones de personas menos vivían en condiciones de pobreza extrema en 2010 que en 1990.La desaceleración del crecimiento económico se traduce en una pérdida continua de trabajos, y la carga mayor de la crisis la soportan los jóvenes
+El crecimiento económico mundial disminuyó aún más durante 2012, lo cual debilitó substancialmente la capacidad de las economías nacionales de generar empleos. La relación mundial entre el empleo y la población en edad de trabajar cayó del 61,3% en 2007 al 60,3% en 2012, luego de un moderado incremento registrado entre 2003 y 2007. Si bien la cantidad de trabajadores pobres ha disminuido, más del 60% de los trabajadores de los países en desarrollo todavía vive con menos de 4 dólares al día
+La meta de reducir el hambre se logrará si se puede revertir la reciente desaceleración en los avances
+Según las últimas estimaciones, entre 2010 y 2012 cerca de 870 millones de personas (1 de 8 en todo el mundo) no estaban alimentadas suficientemente de forma periódica, de modo que tuvieran cubiertos los requisitos mínimos de nutrición. La amplia mayoría de las personas con nutrición crónicamente insuficiente (852 millones) reside en países en desarrollo.
+La cantidad de personas desplazadas por causa de conflictos o de persecución se encuentra en su nivel más alto en 18 años
+La Declaración del Milenio pide que se proteja y asista a los refugiados, que se comparta esa responsabilidad a nivel mundial y que se ayude a los desplazados a regresar a sus hogares. Al respecto, muchas de las metas de los Objetivos de Desarrollo del Milenio tienen un significado inclusive mayor para los supervivientes de conflictos y de persecución
+
+</p><div align="center"><img src="imagenes/hambre.jpeg" alt="Imagen hambre"width="350" height="400"></div></td>
+<td><p><H3 align="center">Objetivo 1:ERRADICAR LA POBRESA EXTREMA Y EL HAMBRE</h3></font></p>
+<p><H4 align="center"><font color="#800000" size="70" face="Comic Sans MS, Arial, MS Sans Serif"</p>
+<div align="center"><img src="imagenes/pobreza.jpeg" alt="Imagen pobreza"width="350" height="400"></div><div align="center"><img src="imagenes/carecer.jpeg" alt="Imagen calidad"width="350" height="400"></div></td>
+</tr>
+</table>
+</html>

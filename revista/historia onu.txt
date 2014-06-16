@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Inicio</title>
+</head>
+<body bgcolor="#000000">
+</body>
+<br>
+<br>
+<table width="70%" border="3" align="center" cellspacing="0" bordercolor="#800000" bgcolor="#FFFFCC">
+  <tr>
+    <td><p><H3 align="center">ONU</h3></font></p>
+<p><H4 align="center"><P>Cuando y por que fue creada</P><P>Las Naciones Unidas son una organización internacional fundada en 1945 tras la Segunda Guerra Mundial por 51 países que se comprometieron a mantener la paz y la seguridad internacionales, 
+fomentar entre las naciones relaciones de amistad y promover el progreso social, la mejora del nivel de vida y los derechos humanos.</P>
+<P>Objetivo y labor</P>
+<P>La labor de las Naciones Unidas llega a todos los rincones del mundo. Aunque es más conocida por el mantenimiento de la paz, la consolidación de la paz, la prevención de conflictos y la asistencia humanitaria, hay muchas otras maneras en que las Naciones Unidas y su sistema (organismos especializados, fondos y programas), afectan a nuestras vidas y hacer del mundo un lugar mejor. La Organización trabaja en una amplia gama de temas fundamentales, desde el desarrollo sostenible, medio ambiente y la protección de los refugiados, socorro en casos de desastre, la lucha contra el terrorismo, el desarme y la no proliferación, hasta la promoción de la democracia, los derechos humanos, la igualdad entre los géneros y el adelanto de la mujer, la gobernanza, el desarrollo económico y social y la salud internacional, la remoción de minas terrestres, la expansión de la producción de alimentos, entre otros, con el fin de alcanzar sus objetivos y coordinar los esfuerzos para un mundo más seguro para las generaciones presentes y futuras.</p>
+</td>
+<td><p><H3 align="center">ONU</h3></font></p>
+<p><H4 align="center"><font color="#800000" size="70" face="Comic Sans MS, Arial, MS Sans Serif"</p>
+<div align="center"><img src="imagenes/ONU.jpeg" alt="Imagen calidad"width="350" height="600"></div></td>
+</tr>
+</table>
+</html>
